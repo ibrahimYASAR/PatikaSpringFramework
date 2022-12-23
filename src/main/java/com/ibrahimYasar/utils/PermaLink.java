@@ -2,6 +2,6 @@ package com.ibrahimYasar.utils;
 
 public class PermaLink {
 
-    //GİTHUB
+    //GİTHUB : https://github.com/ibrahimYASAR/PatikaSpringFramework
 
 }
