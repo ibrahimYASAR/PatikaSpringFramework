@@ -6,9 +6,7 @@
        bean-discovery-mode="all">
 
     <alternatives>
-        <class>com.ibrahimYasar.alternative.Patron1</class>
-<!--
+        <!-- <class>com.ibrahimYasar.alternative.Patron1</class>-->
         <class>com.ibrahimYasar.alternative.Patron2</class>
--->
     </alternatives>
 </beans>
