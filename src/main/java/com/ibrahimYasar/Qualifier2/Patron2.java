@@ -1,4 +1,4 @@
-package com.ibrahimYasar.Qualifier;
+package com.ibrahimYasar.Qualifier2;
 
 @QualifierMultiple
 public class Patron2 implements PatronInterface {

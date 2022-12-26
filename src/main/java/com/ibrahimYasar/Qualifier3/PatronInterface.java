@@ -1,7 +1,4 @@
-package com.ibrahimYasar.Qualifier;
-
-import javax.enterprise.inject.Alternative;
-import javax.inject.Qualifier;
+package com.ibrahimYasar.Qualifier3;
 
 public interface PatronInterface {
 

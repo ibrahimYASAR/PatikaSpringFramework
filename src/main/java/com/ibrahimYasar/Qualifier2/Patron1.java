@@ -1,4 +1,4 @@
-package com.ibrahimYasar.Qualifier;
+package com.ibrahimYasar.Qualifier2;
 
 import javax.enterprise.inject.Default;
 
