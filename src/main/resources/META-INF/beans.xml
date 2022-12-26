@@ -5,8 +5,14 @@
        version="3.0"
        bean-discovery-mode="all">
 
-<!--       <alternatives>-->
-<!--     &lt;!&ndash;<class>com.ibrahimYasar.alternative.Patron1</class>&ndash;&gt;-->
-<!--        <class>com.ibrahimYasar.alternative.Patron2</class>-->
-<!--    </alternatives>-->
+<!--        alternatives-->
+       <alternatives>
+     <!--<class>com.ibrahimYasar.alternative.Patron1</class>-->
+        <class>com.ibrahimYasar.alternative.Patron1</class>
+    </alternatives>
+
+<!--    interceptor-->
+    <interceptors>
+        <class>com.ibrahimYasar.interceptor.intercepterYolKesiciAsilIs</class>
+    </interceptors>
 </beans>
